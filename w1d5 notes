@@ -1,0 +1,21 @@
+created a lockfile as package-lock.json
+
+npm init
+
+npm install
+
+npm install -g sass (for all my projects (global as in vagrant computer))
+
+gitignore
+  node_modules/
+  .DS_Store
+  .env
+
+(style convert)
+  sass style.scss style.css (convert locally in my (package-lock.json) fileaka the file i work in the package i created)
+
+npm outdated
+
+
+in the real-estate.js script, (not in project.js) put this before in function using variable within that script.
+
